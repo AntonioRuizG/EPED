@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=identificador\ pedido\ paciencia
+comment0.target=Cliente(int,\ Tarta,\ int)
+comment1.target=int\ getIdentificador()
+comment2.target=int\ getPaciencia()
+comment3.target=boolean\ tienePaciencia()
+comment4.params=unidadesDeTiempo
+comment4.target=void\ esperar(int)
+comment5.target=Tarta\ getPedido()
+numComments=6

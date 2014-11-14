@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=tipoTarta
+comment0.target=Tarta(int)
+comment1.target=int\ getTipoTarta()
+comment2.params=t
+comment2.target=boolean\ equals(Tarta)
+numComments=3

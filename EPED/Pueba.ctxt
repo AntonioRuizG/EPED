@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Pueba()
+comment1.params=num
+comment1.target=void\ insertar(int)
+comment2.target=void\ imprimir()
+numComments=3

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=T\ getFirst()
+comment0.text=\nDevuelve\ la\ cabeza\ de\ la\ cola.\n@return\ la\ cabeza\ de\ la\ cola.\n\n
+comment1.params=element
+comment1.target=QueueIF<T>\ add(T)
+comment1.text=\nInserta\ un\ nuevo\ elemento\ a\ la\ cola.\n@param\ element\ El\ elemento\ a\ a\u00F1adir.\n@return\ la\ cola\ incluyendo\ el\ elemento.\n\n
+comment2.target=QueueIF<T>\ remove()
+comment2.text=\nBorra\ la\ cabeza\ de\ la\ cola.\nla\ cola\ excluyendo\ la\ cabeza.\n\n
+comment3.target=boolean\ isEmpty()
+comment3.text=\nDevuelve\ cierto\ si\ la\ cola\ esta\ vacia.\n@return\ cierto\ si\ la\ cola\ esta\ vacia.\n\n
+comment4.target=boolean\ isFull()
+comment4.text=\nDevuelve\ cierto\ si\ la\ cola\ esta\ llena.\n@return\ cierto\ si\ la\ cola\ esta\ llena.\n\n
+comment5.target=int\ getLength()
+comment5.text=\nDevuelve\ el\ numero\ de\ elementos\ de\ la\ cola.\n@return\ el\ numero\ de\ elementos\ de\ la\ cola.\n\n
+comment6.params=element
+comment6.target=boolean\ contains(T)
+comment6.text=\nDevuelve\ cierto\ si\ la\ cola\ contiene\ el\ elemento.\n@param\ element\ El\ elemento\ buscado.\n@return\ cierto\ si\ la\ cola\ contiene\ el\ elemento.\n\n
+comment7.target=IteratorIF<T>\ getIterator()
+comment7.text=\nDevuelve\ un\ iterador\ para\ la\ cola.\n@return\ un\ iterador\ para\ la\ cola.\n\n
+numComments=8

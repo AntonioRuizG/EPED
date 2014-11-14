@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(String[])
+comment0.text=\nMain\n\n
+comment1.target=void\ comenzarJornada()
+comment2.params=C
+comment2.target=void\ atenderCliente(Cliente)
+comment3.params=pCliente
+comment3.target=boolean\ fabricarTarta(int)
+comment4.params=T
+comment4.target=boolean\ buscarEnMostradores(Tarta)
+comment5.params=C
+comment5.target=void\ entregarPedido(Cliente)
+comment6.target=boolean\ moverTarta()
+comment7.target=void\ nuevoCliente()
+comment8.target=void\ informe()
+numComments=9

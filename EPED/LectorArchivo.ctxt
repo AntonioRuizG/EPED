@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=archivo
+comment0.target=void\ cargarArchivo(String)
+comment1.target=int[]\ proximaLinea()
+comment2.target=int\ numTartas()
+comment3.target=int\ precioTarta()
+comment4.target=Cliente\ nextCliente()
+numComments=5

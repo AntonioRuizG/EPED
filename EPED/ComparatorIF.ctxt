@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=e1\ e2
+comment0.target=int\ compare(T,\ T)
+comment0.text=\nCompara\ dos\ elementos\ para\ indicar\ si\ el\ primero\ es\nmenor,\ igual\ o\ mayor\ que\ el\ segundo\ elemento.\n@param\ e1\ el\ primer\ elemento.\n@param\ e2\ el\ segundo\ elemento.\n@return\ el\ orden\ de\ los\ elementos.\n\n
+comment1.params=e1\ e2
+comment1.target=boolean\ isLess(T,\ T)
+comment1.text=\nIndica\ si\ un\ elemento\ es\ menor\ que\ otro.\n@param\ e1\ el\ primer\ elemento.\n@param\ e2\ el\ segundo\ elemento.\n@return\ true\ si\ un\ elemento\ es\ menor\ que\ otro.\n\n
+comment2.params=e1\ e2
+comment2.target=boolean\ isEqual(T,\ T)
+comment2.text=\nIndica\ si\ un\ elemento\ es\ igual\ que\ otro.\n@param\ e1\ el\ primer\ elemento.\n@param\ e2\ el\ segundo\ elemento.\n@return\ true\ si\ un\ elemento\ es\ igual\ que\ otro.\n\n
+comment3.params=e1\ e2
+comment3.target=boolean\ isGreater(T,\ T)
+comment3.text=\nIndica\ si\ un\ elemento\ es\ mayor\ que\ otro.\n@param\ e1\ el\ primer\ elemento.\n@param\ e2\ el\ segundo\ elemento.\n@return\ true\ si\ un\ elemento\ es\ mayor\ que\ otro.\n\n
+numComments=4

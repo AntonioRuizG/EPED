@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=handler
+comment0.target=StackIterator(StackIF<T>)
+comment1.target=T\ getNext()
+comment1.text=\nDevuelve\ el\ siguiente\ elemento\ de\ la\ iteracion.\n@return\ el\ siguiente\ elemento\ de\ la\ iteracion.\n\n
+comment2.target=boolean\ hasNext()
+comment2.text=\nDevuelve\ cierto\ si\ aun\ quedan\ elementos\ sin\ visitar\ en\ la\ iteracion.\n@return\ cierto\ si\ existen\ elementos\ sin\ visitar\ en\ la\ iteracion\n\n
+comment3.target=void\ reset()
+comment3.text=\nRestablece\ el\ iterador\ al\ comienzo.\n\n
+numComments=4

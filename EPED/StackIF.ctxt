@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=T\ getTop()
+comment0.text=\nDevuelve\ la\ cima\ de\ la\ pila.\n@return\ la\ cima\ de\ la\ pila.\n
+comment1.params=element
+comment1.target=StackIF<T>\ push(T)
+comment1.text=\nInserta\ un\ elemento\ a\ la\ pida.\n@param\ element\ El\ elemento\ a\ ser\ a\u00F1adido.\n@return\ la\ pila\ incluyendo\ el\ elemento.\n
+comment2.target=StackIF<T>\ pop()
+comment2.text=\nExtrae\ de\ la\ pila\ el\ elemento\ en\ la\ cima.\n@return\ la\ pila\ excluyendo\ la\ cabeza.\n
+comment3.target=boolean\ isEmpty()
+comment3.text=\nDevuelve\ cierto\ si\ la\ pila\ esta\ vacia.\n@return\ cierto\ si\ la\ pila\ esta\ vacia.\n
+comment4.target=boolean\ isFull()
+comment4.text=\nDevuelve\ cierto\ si\ la\ pila\ esta\ llena.\n@return\ cierto\ si\ la\ pila\ esta\ llena.\n
+comment5.target=int\ getLength()
+comment5.text=\nDevuelve\ el\ numero\ de\ elementos\ de\ la\ pila.\n@return\ el\ numero\ de\ elementos\ de\ la\ pila.\n
+comment6.params=element
+comment6.target=boolean\ contains(T)
+comment6.text=\nDevuelve\ cierto\ si\ la\ pila\ contiene\ el\ elemento.\n@param\ element\ El\ elemento\ buscado.\n@return\ cierto\ si\ la\ pila\ contiene\ el\ elemento.\n
+comment7.target=IteratorIF<T>\ getIterator()
+comment7.text=\nDevuelve\ un\ iterador\ para\ la\ pila.\n@return\ un\ iterador\ para\ la\ pila.\n
+numComments=8
